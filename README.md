@@ -27,4 +27,4 @@ Now learning Python
 
 2022.8.12农历七月十五我加入了GitHub
 
-2022.8.12Threeth day of the 15th lunar month I joined GitHub
+On the fifteenth day of the seventh month of the lunar calendar I joined GitHub
